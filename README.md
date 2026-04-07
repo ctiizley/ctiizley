@@ -2,23 +2,31 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- [Active Directory Security Lab](https://github.com/ctiizley/active-directory-account-security-lab/tree/main)
-- [Firewall Hardening & Traffic Control](https://github.com/ctiizley/Network-Firewall-Hardening-Lab)
-- [Network Enumeration Lab](https://github.com/ctiizley/Network-Enumeration/tree/main)
-- [Secure Email Encryption](https://github.com/ctiizley/secure-email-encryption-openssl/tree/main)
-- [DoS Attack Simulation Lab](https://github.com/ctiizley/DoS-Attack-Simulation-and-Traffic-Analysis/tree/main)
+- <b>Active Directory & Identity Security (Windows Server / GPO)</b>
+  - [Active Directory Security Lab](https://github.com/ctiizley/active-directory-account-security-lab/tree/main)
+
+- <b>Firewall Hardening & Network Traffic Control</b>
+  - [Firewall Hardening & Traffic Control](https://github.com/ctiizley/Network-Firewall-Hardening-Lab)
+
+- <b>Network Enumeration & Service Discovery (Nmap / Wireshark)</b>
+  - [Network Enumeration Lab](https://github.com/ctiizley/Network-Enumeration/tree/main)
+
+- <b>Public-Key Encryption & Secure File Transmission (OpenSSL)</b>
+  - [Secure Email Encryption](https://github.com/ctiizley/secure-email-encryption-openssl/tree/main)
+
+- <b>Denial-of-Service Attack Simulation & Traffic Analysis</b>
+  - [DoS Attack Simulation Lab](https://github.com/ctiizley/DoS-Attack-Simulation-and-Traffic-Analysis/tree/main)
 
 
 <h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.linkedin.com/in/christian-howard-8835352a0/" />][linkedin]
+<br />
 
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/YOUR-LINK-HERE
+[email]: mailto:christianxhoward2124@gmail.com
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
