@@ -2,6 +2,11 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
+- [Active Directory Security Lab](
+- [Firewall Hardening & Traffic Control](
+- [Network Enumeration Lab (Nmap / arp-scan)](
+- [Secure Email Encryption (OpenSSL)](
+- [DoS Attack Simulation Lab](
 
 
 <h2> 🤳 Connect with me:</h2>
