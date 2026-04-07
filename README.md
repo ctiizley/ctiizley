@@ -6,7 +6,7 @@
 - [Firewall Hardening & Traffic Control](https://github.com/ctiizley/Network-Firewall-Hardening-Lab)
 - [Network Enumeration Lab](https://github.com/ctiizley/Network-Enumeration/blob/main/README.md)
 - [Secure Email Encryption](https://github.com/ctiizley/secure-email-encryption-openssl/blob/main/README.md)
-- [DoS Attack Simulation Lab](
+- [DoS Attack Simulation Lab](https://github.com/ctiizley/DoS-Attack-Simulation-and-Traffic-Analysis/tree/main)
 
 
 <h2> 🤳 Connect with me:</h2>
