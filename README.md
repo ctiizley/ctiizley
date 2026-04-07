@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christian Howard! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Christian Howard! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Network Security Undergraduate</a>, 
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
