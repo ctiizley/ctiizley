@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christian Howard! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Network Security Undergraduate</a> 
+<h1>Hi, I'm Christian Howard! <br/><a href="https://www.linkedin.com/in/christian-howard-8835352a0/">Cybersecurity Network Security Undergraduate</a> 
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
@@ -25,7 +25,7 @@
 
 <br />
 
-[linkedin]: https://linkedin.com/in/YOUR-LINK-HERE
+[linkedin]: https://www.linkedin.com/in/christian-howard-8835352a0/
 [email]: mailto:christianxhoward2124@gmail.com
 
 <!--
