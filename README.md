@@ -1,11 +1,11 @@
-<h1>Hi, I'm Christian Howard! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Network Security Undergraduate</a>, 
+<h1>Hi, I'm Christian Howard! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Network Security Undergraduate</a> 
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - [Active Directory Security Lab](
 - [Firewall Hardening & Traffic Control](
 - [Network Enumeration Lab](https://github.com/ctiizley/Network-Enumeration/blob/main/README.md)
-- [Secure Email Encryption](
+- [Secure Email Encryption](https://github.com/ctiizley/secure-email-encryption-openssl/blob/main/README.md)
 - [DoS Attack Simulation Lab](
 
 
