@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- [Active Directory Security Lab](https://github.com/ctiizley/active-directory-account-security-lab/blob/main/README.md)
+- [Active Directory Security Lab](https://github.com/ctiizley/active-directory-account-security-lab/tree/main)
 - [Firewall Hardening & Traffic Control](https://github.com/ctiizley/Network-Firewall-Hardening-Lab)
 - [Network Enumeration Lab](https://github.com/ctiizley/Network-Enumeration/blob/main/README.md)
 - [Secure Email Encryption](https://github.com/ctiizley/secure-email-encryption-openssl/blob/main/README.md)
