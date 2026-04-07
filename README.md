@@ -5,7 +5,7 @@
 - [Active Directory Security Lab](https://github.com/ctiizley/active-directory-account-security-lab/tree/main)
 - [Firewall Hardening & Traffic Control](https://github.com/ctiizley/Network-Firewall-Hardening-Lab)
 - [Network Enumeration Lab](https://github.com/ctiizley/Network-Enumeration/tree/main)
-- [Secure Email Encryption](https://github.com/ctiizley/secure-email-encryption-openssl/blob/main/README.md)
+- [Secure Email Encryption](https://github.com/ctiizley/secure-email-encryption-openssl/tree/main)
 - [DoS Attack Simulation Lab](https://github.com/ctiizley/DoS-Attack-Simulation-and-Traffic-Analysis/tree/main)
 
 
