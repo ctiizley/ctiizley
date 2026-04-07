@@ -4,7 +4,7 @@
 
 - [Active Directory Security Lab](
 - [Firewall Hardening & Traffic Control](
-- [Network Enumeration Lab (Nmap / arp-scan)](https://github.com/ctiizley/Network-Enumeration/blob/main/README.md)
+- [Network Enumeration Lab](https://github.com/ctiizley/Network-Enumeration/blob/main/README.md)
 - [Secure Email Encryption (OpenSSL)](
 - [DoS Attack Simulation Lab](
 
