@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
+- <b>Network Intrusion Detection & Traffic Monitoring (IDS)</b>
+  - [Network Intrusion Detection Lab](YOUR-LINK)
+
 - <b>Active Directory & Identity Security (Windows Server / GPO)</b>
   - [Active Directory Security Lab](https://github.com/ctiizley/active-directory-account-security-lab/tree/main)
 
